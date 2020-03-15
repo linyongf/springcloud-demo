@@ -1,0 +1,12 @@
+server:
+  port: 2001
+
+spring:
+  application:
+    name:  microservicecloud-config
+  cloud:
+    config:
+      server:
+        git:
+          #GitHub上面的git仓库名字 我这里ssh连接授权失败，用https方式可以
+          uri: https://github.com/linyongfei/microservicecloud-config.git

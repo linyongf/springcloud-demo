@@ -1,0 +1,2 @@
+server:
+ port: 8003 #localhost:8083/hystrix 查看dashboard
