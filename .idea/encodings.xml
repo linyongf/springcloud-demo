@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-client-2002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-client-2002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-eureka-2003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-provider-2004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server-2001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-feign-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-hystrix-dashboard-8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-9001/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-9002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-9003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-hystrix-9004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-1001" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

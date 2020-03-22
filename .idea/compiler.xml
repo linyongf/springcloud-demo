@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-client-2002" />
+        <module name="config-provider-2004" />
+        <module name="provider-hystrix-9004" />
+        <module name="consumer-feign-8001" />
+        <module name="provider-9002" />
+        <module name="consumer-8002" />
+        <module name="config-eureka-2003" />
+        <module name="provider-9003" />
+        <module name="config-server-2001" />
+        <module name="provider-9001" />
+        <module name="zuul-1001" />
+        <module name="consumer-hystrix-dashboard-8003" />
+        <module name="eureka-server-7002" />
+        <module name="eureka-server-7003" />
+        <module name="api" />
+        <module name="eureka-server-7001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="provider-8001" target="1.5" />
+      <module name="provider-dept-8001" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api" options="" />
+      <module name="config-client-2002" options="" />
+      <module name="config-eureka-2003" options="" />
+      <module name="config-provider-2004" options="" />
+      <module name="config-server-2001" options="" />
+      <module name="consumer-8002" options="" />
+      <module name="consumer-feign-8001" options="" />
+      <module name="consumer-hystrix-dashboard-8003" options="" />
+      <module name="eureka-server-7001" options="" />
+      <module name="eureka-server-7002" options="" />
+      <module name="eureka-server-7003" options="" />
+      <module name="provider-9002" options="" />
+      <module name="provider-9003" options="" />
+      <module name="provider-dept-8001" options="" />
+      <module name="provider-hystrix-9004" options="" />
+      <module name="zuul-1001" options="" />
+    </option>
+  </component>
+</project>

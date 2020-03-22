@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/api/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-dept/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer7001/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-feign-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-hystrix-dashboard-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-1001/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server-2001/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client-2002/pom.xml" />
+        <option value="$PROJECT_DIR$/config-eureka-2003/pom.xml" />
+        <option value="$PROJECT_DIR$/config-provider-2004/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>ComplianceLintAndroid</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
